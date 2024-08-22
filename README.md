@@ -1,3 +1,4 @@
+![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
 
