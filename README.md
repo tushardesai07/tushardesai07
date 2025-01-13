@@ -1,6 +1,6 @@
 ![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
-![](https://komarev.com/ghpvc/?username=your-github-username&abbreviated=true)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardesai07&label=Profile%20views&color=0e75b6&style=flat" alt="tushardesai07" /> </p>
 🎓 **B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA**    
 <img align="right" width="350" height="280" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="image">
 🚀 Passionate **Web Developer** | **Python Enthusiast** | **AI Explorer**  
@@ -26,7 +26,7 @@
 🏆 **Certifications:**  
 Accenture Data Analytics Simulation | Python, Java, C | Data Science at 1stop  
 
-🌟 **Currently Exploring:** Flask, AI-driven solutions, and advanced Python.  
+🌟 **Currently Exploring:** Flask, AI-driven solutions.  
 
 📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/tushar-desai-14a711259) | [Email](tushardesai1403@gmail.com)  
 
