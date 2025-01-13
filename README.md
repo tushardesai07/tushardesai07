@@ -4,7 +4,7 @@
 🎓 <b> B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA </b>
 <br>
 🚀 Passionate **Python Enthusiast** | **AI Explorer** | **Full Stack Developer** 
-<img align="right" width="400" height="270" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="image">
+<img align="right" width="430" height="270" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="image">
 
 
 💻 **Technical Skills:**  
@@ -28,9 +28,10 @@
 🏆 **Certifications:**  
 Accenture Data Analytics Simulation | Python, Java, C | Data Science at 1stop  
 
-🌟 **Currently Exploring:** Flask, AI-driven solutions.  
+🌟 **Currently Exploring:** Flask, AI-driven solutions. 
 
-📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/tushar-desai-14a711259) | [Email](tushardesai1403@gmail.com)  
+📫 How to reach me **tushardesai1403@gmail.com**
+📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/tushar-desai-14a711259)  
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -40,4 +41,4 @@ Accenture Data Analytics Simulation | Python, Java, C | Data Science at 1stop
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tushardesai07&show_icons=true&locale=en" alt="tushardesai07" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tushardesai07&" alt="tushardesai07" /></p>
+
