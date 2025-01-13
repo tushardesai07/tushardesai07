@@ -13,7 +13,7 @@
 - **Databases:** MySQL, Firebase, Oracle SQL, MongoDB 
 - **Tools:** NumPy, Pandas, MATLAB, Git, GitHub, jQuery
 - **Methodologies:** SDLC, Agile/Scrum
--  
+ 
 🛠️ **Notable Projects:**  
 - **[Emojify-Music](https://github.com/tushardesai07/Emojify-Music):** Emotion-based music recommender using Python, OpenCV & Firebase.  
 - **Chatbot for FAQ:** NLP-powered chatbot delivering 90% accurate responses.  
@@ -30,7 +30,7 @@ Accenture Data Analytics Simulation | Python, Java, C | Data Science at 1stop
 
 🌟 **Currently Exploring:** Flask, AI-driven solutions. 
 
-📫 How to reach me **tushardesai1403@gmail.com** &\n
+📫 How to reach me **tushardesai1403@gmail.com** <br>
 📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/tushar-desai-14a711259)  
 
 
