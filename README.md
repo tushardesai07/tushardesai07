@@ -1,13 +1,16 @@
 ![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 
-🎓 **B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA**  
+🎓 **B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA**                         
+<img align="right" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="image">
 🚀 Passionate **Web Developer** | **Python Enthusiast** | **AI Explorer**  
 
 💻 **Technical Skills:**  
-- **Languages:** Python, Java, C           - **Web Dev:** HTML, CSS, JavaScript, Django, Bootstrap  
-- **Databases:** MySQL, Firebase, Oracle SQL, MongoDB   - **Methodologies:** SDLC, Agile/Scrum  
+- **Languages:** Python, Java, C
+- **Web Dev:** HTML, CSS, JavaScript, Django, Bootstrap  
+- **Databases:** MySQL, Firebase, Oracle SQL, MongoDB 
 - **Tools:** NumPy, Pandas, MATLAB, Git, GitHub, jQuery
+- **Methodologies:** SDLC, Agile/Scrum
 - 
 🛠️ **Notable Projects:**  
 - **[Emojify-Music](https://github.com/tushardesai07/Emojify-Music):** Emotion-based music recommender using Python, OpenCV & Firebase.  
