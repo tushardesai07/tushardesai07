@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 
 
-<h1>🎓 B.Tech in Computer Science and Engineering (Data Science)  </h1>h1>
+<h5>🎓 B.Tech in Computer Science and Engineering (Data Science)  </h5>
 🚀 Passionate **Web Developer** | **Python Enthusiast** | **AI Explorer**  
 
 💻 **Technical Skills:**  
