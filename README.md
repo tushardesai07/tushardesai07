@@ -1,21 +1,20 @@
 ![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 
-
-<h5>🎓 B.Tech in Computer Science and Engineering (Data Science)  </h5>
+🎓 **B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA**  
 🚀 Passionate **Web Developer** | **Python Enthusiast** | **AI Explorer**  
 
 💻 **Technical Skills:**  
 - **Languages:** Python, Java, C  
 - **Web Dev:** HTML, CSS, JavaScript, Django, Bootstrap  
 - **Databases:** MySQL, Firebase, Oracle SQL, MongoDB  
-- **Tools:** NumPy, Pandas, Git, GitHub, MATLAB, jQuery  
+- **Tools:** NumPy, Pandas, MATLAB, Git, GitHub, jQuery  
 - **Methodologies:** SDLC, Agile/Scrum  
 
 🛠️ **Notable Projects:**  
-- **[Emojify-Music](#):** Emotion-based music recommender using Python, OpenCV & Firebase.  
+- **[Emojify-Music](https://github.com/tushardesai07/Emojify-Music):** Emotion-based music recommender using Python, OpenCV & Firebase.  
 - **Chatbot for FAQ:** NLP-powered chatbot delivering 90% accurate responses.  
-- **[Kolhapurbachatgat.com](#):** E-commerce platform empowering housewives.  
+- **[Kolhapurbachatgat.com](https://kolhapurbachatgat.com/):** E-commerce platform empowering housewives.  
 - **Scrap Flipkart Data:** Web scraper for multi-page e-commerce data analysis.  
 
 🎯 **Experience Highlights:**  
@@ -28,7 +27,7 @@ Accenture Data Analytics Simulation | Python, Java, C | Data Science at 1stop
 
 🌟 **Currently Exploring:** Flask, AI-driven solutions, and advanced Python.  
 
-📫 **Let’s Connect:** [LinkedIn](#) | [Portfolio](#) | [Email](#)  
+📫 **Let’s Connect:** [LinkedIn](www.linkedin.com/in/tushar-desai-14a711259) | [Email](tushardesai1403@gmail.com)  
 
 
 <h3 align="left">Languages and Tools:</h3>
