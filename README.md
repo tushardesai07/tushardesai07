@@ -1,7 +1,8 @@
 ![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 <h3 align="center">A Passionate Software Developer From India</h3>
-
+<br>
+<br>
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212750680-266fa8aa-39f1-4e8b-8873-7181dbaf3d7c.gif" alt="image">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardesai07&label=Profile%20views&color=0e75b6&style=flat" alt="tushardesai07" /> </p>
