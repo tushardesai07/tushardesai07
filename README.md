@@ -1,4 +1,4 @@
-![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)
+![logo](https://github.com/tushardesai07/tushardesai07/blob/main/Banner.png.png)
 <h1 align="center">Hi 👋, I'm Tushar Dnyandev Desai</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tushardesai07&label=Profile%20views&color=0e75b6&style=flat" alt="tushardesai07" /> </p>
 🎓 <b> B.Tech in Computer Science and Engineering (Data Science) with 8.2 CGPA </b>
