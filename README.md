@@ -5,12 +5,10 @@
 🚀 Passionate **Web Developer** | **Python Enthusiast** | **AI Explorer**  
 
 💻 **Technical Skills:**  
-- **Languages:** Python, Java, C  
-- **Web Dev:** HTML, CSS, JavaScript, Django, Bootstrap  
-- **Databases:** MySQL, Firebase, Oracle SQL, MongoDB  
-- **Tools:** NumPy, Pandas, MATLAB, Git, GitHub, jQuery  
-- **Methodologies:** SDLC, Agile/Scrum  
-
+- **Languages:** Python, Java, C           - **Web Dev:** HTML, CSS, JavaScript, Django, Bootstrap  
+- **Databases:** MySQL, Firebase, Oracle SQL, MongoDB   - **Methodologies:** SDLC, Agile/Scrum  
+- **Tools:** NumPy, Pandas, MATLAB, Git, GitHub, jQuery
+- 
 🛠️ **Notable Projects:**  
 - **[Emojify-Music](https://github.com/tushardesai07/Emojify-Music):** Emotion-based music recommender using Python, OpenCV & Firebase.  
 - **Chatbot for FAQ:** NLP-powered chatbot delivering 90% accurate responses.  
